@@ -1,4 +1,4 @@
 {
   "items": "teste da api funcionando para requests",
-  "otavioPedro": "Teste da segunda variável"
+  "otavioPedro": "Arrumando valores"
 }
